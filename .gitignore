@@ -1,3 +1,4 @@
 *.old
 config.py
 __pycache__
+config2.py

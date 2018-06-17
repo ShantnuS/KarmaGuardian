@@ -14,7 +14,7 @@ Instructions for setting up a Reddit application to use KarmaGuardian:
 
 1. Logon to Reddit and go to **preferences**. 
 2. Go to the **apps** section.
-3. At the botton click **create another app*.
+3. At the botton click **create another app...**.
 4. Fill out relavent information, i.e. shown below:
 
 <img src="readme_res\create_new_app.PNG" align="middle">

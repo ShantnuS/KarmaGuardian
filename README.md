@@ -12,10 +12,10 @@ pip install praw
 
 Instructions for setting up a Reddit application to use KarmaGuardian:
 
-1. Logon to Reddit and go to **preferences**. 
+1. Log-on to Reddit and go to **preferences**. 
 2. Go to the **apps** section.
-3. At the botton click **create another app...**.
-4. Fill out relavent information, i.e. shown below:
+3. At the bottom of the page, click **create another app...**.
+4. Fill out relevant information, i.e. shown below:
 
 <img src="readme_res\create_new_app.PNG" align="middle">
 
@@ -28,7 +28,7 @@ Instructions for setting up a Reddit application to use KarmaGuardian:
 Instructions for setting up and running KarmaGuardian for your Reddit account:
 
 1. Clone the repository or download the files.
-2. Open the config.py file and replace XXXXXXXXX with relavent details.
+2. Open the config.py file and replace XXXXXXXXX with relevant details.
 
 ```Python 
 ##REDDIT BASICS###

@@ -3,6 +3,11 @@ Reddit script that deletes your comments when they are downvoted below a thresho
 
 ## Getting Started    
 
+Before starting, PRAW must be installed on the machine. On a Windows system, [the batch file can be used](install_libraries.bat). Alternatively, if pip is installed on the machine, the command below may be used.
+``` 
+pip install praw
+```
+
 ### Setting up Reddit application
 
 

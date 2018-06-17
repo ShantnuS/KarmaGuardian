@@ -3,15 +3,30 @@ Reddit script that deletes your comments when they are downvoted below a thresho
 
 ## Getting Started    
 
-Before starting, PRAW must be installed on the machine. On a Windows system, [the batch file can be used](install_libraries.bat). Alternatively, if pip is installed on the machine, the command below may be used.
+Before starting, [PRAW](https://praw.readthedocs.io/en/latest/) must be installed on the machine. On a Windows system, [the batch file can be used](install_libraries.bat). Alternatively, if pip is installed on the machine, the command below may be used.
 ``` 
 pip install praw
 ```
 
 ### Setting up Reddit application
 
+Instructions for setting up a Reddit application to use KarmaGuardian:
+
+1. Logon to Reddit and go to **preferences**. 
+2. Go to the **apps** section.
+3. At the botton click **create another app*.
+4. Fill out relavent information, i.e. shown below:
+
+<img src="readme_res\create_new_app.PNG" align="middle">
+
+5. You will now be able to see your **client ID** and **client secret**!
+
+<img src="readme_res\app_info.PNG" align="middle">
 
 ### Setting up KarmaGuardian
+
+Instructions for setting up and running KarmaGuardian for your Reddit account:
+
 1. Clone the repository or download the files.
 2. Open the config.py file and replace XXXXXXXXX with relavent details.
 

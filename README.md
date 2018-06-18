@@ -44,3 +44,5 @@ threshold = -2 #Minimum comment score before it is deleted
 ```
 3. Run KarmaGuardian.py using the command line using "python KarmaGuardian.py". 
 4. The script will delete comments with a score of below the threshold every 60 seconds. 
+
+## Useful Links
